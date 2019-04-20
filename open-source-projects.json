@@ -19,5 +19,10 @@
         "repo_url": "https://github.com/Appleseed/leaves.lite",
         "role": "Contributor",
         "color": "rgba(65, 131, 215, 0.5)"
+    },{
+        "name": "Appleseed/leaves.topic",
+        "repo_url": "https://github.com/Appleseed/leaves.topic",
+        "role": "Contributor",
+        "color": "rgba(219, 10, 91, 0.5)"
     }
 ]
