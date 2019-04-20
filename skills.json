@@ -6,49 +6,49 @@
         "name": "Babel",
         "icon_name": "devicon-babel-plain"
     },{
-        "name": "",
+        "name": "Bootstrap",
         "icon_name": "devicon-bootstrap-plain"
     },{
-        "name": "",
+        "name": "Django",
         "icon_name": "devicon-django-plain"
     },{
-        "name": "",
+        "name": "Docker",
         "icon_name": "devicon-docker-plain"
     },{
-        "name": "",
+        "name": "Express",
         "icon_name": "devicon-express-original"
     },{
-        "name": "",
+        "name": "git",
         "icon_name": "devicon-git-plain"
     },{
-        "name": "",
+        "name": "Gulp",
         "icon_name": "devicon-gulp-plain"
     },{
-        "name": "",
+        "name": "Heroku",
         "icon_name": "devicon-heroku-original"
     },{
-        "name": "",
+        "name": "JavaScript",
         "icon_name": "devicon-javascript-plain"
     },{
-        "name": "",
+        "name": "mongoDB",
         "icon_name": "devicon-mongodb-plain"
     },{
-        "name": "",
+        "name": "NodeJS",
         "icon_name": "devicon-nodejs-plain"
     },{
-        "name": "",
+        "name": "Python",
         "icon_name": "devicon-python-plain"
     },{
-        "name": "",
+        "name": "Rails",
         "icon_name": "devicon-rails-plain"
     },{
-        "name": "",
+        "name": "SASS",
         "icon_name": "devicon-sass-original"
     },{
-        "name": "",
+        "name": "VS Code",
         "icon_name": "devicon-visualstudio-plain"
     },{
-        "name": "",
+        "name": "Webpack",
         "icon_name": "devicon-webpack-plain"
     }
 ]
