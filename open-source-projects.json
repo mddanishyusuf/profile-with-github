@@ -24,5 +24,10 @@
         "repo_url": "https://github.com/Appleseed/leaves.topic",
         "role": "Contributor",
         "color": "rgba(219, 10, 91, 0.5)"
+    },{
+        "name": "mddanishyusuf/spotify-clone",
+        "repo_url": "https://github.com/mddanishyusuf/spotify-clone",
+        "role": "Author",
+        "color": "rgba(3, 201, 169, 0.5)"
     }
 ]
