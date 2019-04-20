@@ -2,18 +2,22 @@
     {
         "name": "mddanishyusuf/dailyhack",
         "repo_url": "https://github.com/mddanishyusuf/dailyhack",
-        "role": "Author"
+        "role": "Author",
+        "color": "rgba(236, 100, 75, 0.5)"
     },{
         "name": "mddanishyusuf/githubsearch",
         "repo_url": "https://github.com/mddanishyusuf/githubsearch",
-        "role": "Author"
+        "role": "Author",
+        "color": "rgba(44, 62, 80, 0.5)"
     },{
         "name": "mattlewis92/angular-calendar",
         "repo_url": "https://github.com/mattlewis92/angular-calendar",
-        "role": ""
+        "role": "Contributor",
+        "color": "rgba(102, 51, 153, 0.5)"
     },{
         "name": "Appleseed/leaves.lite",
         "repo_url": "https://github.com/Appleseed/leaves.lite",
-        "role": ""
+        "role": "Contributor",
+        "color": "rgba(65, 131, 215, 0.5)"
     }
 ]
