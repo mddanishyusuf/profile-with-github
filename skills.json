@@ -1,0 +1,54 @@
+[
+    {
+        "name": "ReactJS",
+        "icon_name": "devicon-react-original"
+    },{
+        "name": "Babel",
+        "icon_name": "devicon-babel-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-bootstrap-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-django-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-docker-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-express-original"
+    },{
+        "name": "",
+        "icon_name": "devicon-git-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-gulp-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-heroku-original"
+    },{
+        "name": "",
+        "icon_name": "devicon-javascript-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-mongodb-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-nodejs-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-python-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-rails-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-sass-original"
+    },{
+        "name": "",
+        "icon_name": "devicon-visualstudio-plain"
+    },{
+        "name": "",
+        "icon_name": "devicon-webpack-plain"
+    }
+]
