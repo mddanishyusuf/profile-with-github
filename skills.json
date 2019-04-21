@@ -1,54 +1,75 @@
-[
+{
+  "title": "My Skills",
+  "subHeading": "I learn all these skills while developing projects. <br />
+                So, I alwasy keen to learn new stuffs and technologies. I can do more.",
+  "skills": [
     {
-        "name": "ReactJS",
-        "icon_name": "devicon-react-original"
-    },{
-        "name": "Babel",
-        "icon_name": "devicon-babel-plain"
-    },{
-        "name": "Bootstrap",
-        "icon_name": "devicon-bootstrap-plain"
-    },{
-        "name": "Django",
-        "icon_name": "devicon-django-plain"
-    },{
-        "name": "Docker",
-        "icon_name": "devicon-docker-plain"
-    },{
-        "name": "Express",
-        "icon_name": "devicon-express-original"
-    },{
-        "name": "git",
-        "icon_name": "devicon-git-plain"
-    },{
-        "name": "Gulp",
-        "icon_name": "devicon-gulp-plain"
-    },{
-        "name": "Heroku",
-        "icon_name": "devicon-heroku-original"
-    },{
-        "name": "JavaScript",
-        "icon_name": "devicon-javascript-plain"
-    },{
-        "name": "mongoDB",
-        "icon_name": "devicon-mongodb-plain"
-    },{
-        "name": "NodeJS",
-        "icon_name": "devicon-nodejs-plain"
-    },{
-        "name": "Python",
-        "icon_name": "devicon-python-plain"
-    },{
-        "name": "Rails",
-        "icon_name": "devicon-rails-plain"
-    },{
-        "name": "SASS",
-        "icon_name": "devicon-sass-original"
-    },{
-        "name": "VS Code",
-        "icon_name": "devicon-visualstudio-plain"
-    },{
-        "name": "Webpack",
-        "icon_name": "devicon-webpack-plain"
+      "name": "ReactJS",
+      "icon_name": "devicon-react-original"
+    },
+    {
+      "name": "Babel",
+      "icon_name": "devicon-babel-plain"
+    },
+    {
+      "name": "Bootstrap",
+      "icon_name": "devicon-bootstrap-plain"
+    },
+    {
+      "name": "Django",
+      "icon_name": "devicon-django-plain"
+    },
+    {
+      "name": "Docker",
+      "icon_name": "devicon-docker-plain"
+    },
+    {
+      "name": "Express",
+      "icon_name": "devicon-express-original"
+    },
+    {
+      "name": "git",
+      "icon_name": "devicon-git-plain"
+    },
+    {
+      "name": "Gulp",
+      "icon_name": "devicon-gulp-plain"
+    },
+    {
+      "name": "Heroku",
+      "icon_name": "devicon-heroku-original"
+    },
+    {
+      "name": "JavaScript",
+      "icon_name": "devicon-javascript-plain"
+    },
+    {
+      "name": "mongoDB",
+      "icon_name": "devicon-mongodb-plain"
+    },
+    {
+      "name": "NodeJS",
+      "icon_name": "devicon-nodejs-plain"
+    },
+    {
+      "name": "Python",
+      "icon_name": "devicon-python-plain"
+    },
+    {
+      "name": "Rails",
+      "icon_name": "devicon-rails-plain"
+    },
+    {
+      "name": "SASS",
+      "icon_name": "devicon-sass-original"
+    },
+    {
+      "name": "VS Code",
+      "icon_name": "devicon-visualstudio-plain"
+    },
+    {
+      "name": "Webpack",
+      "icon_name": "devicon-webpack-plain"
     }
-]
+  ]
+}
