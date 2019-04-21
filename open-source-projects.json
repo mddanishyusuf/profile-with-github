@@ -1,4 +1,7 @@
-[
+{
+    "title": "Open Source Projects",
+    "subHeading": "I'm really pasionate about open source projects. I'm following a community <br\/>where many top developers do open source in their free time.",
+    "projects": [
     {
         "name": "mddanishyusuf/dailyhack",
         "repo_url": "https://github.com/mddanishyusuf/dailyhack",
@@ -31,3 +34,5 @@
         "color": "rgba(3, 201, 169, 0.5)"
     }
 ]
+
+}
