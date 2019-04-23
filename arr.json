@@ -2,7 +2,7 @@
     {
         "name": "Public APIs",
         "type": "Side Projects",
-        "url": "https://public-apis.xyz",
+        "url": {"ai":"dsd","asd":"dcds"},
         "description": "Public APIs: A Collective Index of Public APIs for Software Development",
         "image": "https://user-images.githubusercontent.com/9165019/56467330-25b55680-643b-11e9-9862-e46f6938f7fe.png"
     },
